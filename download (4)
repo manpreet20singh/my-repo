@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="https://purl.org/dc/terms/">
   <channel>
-    <title>Auto VMS import</title>
+    <title>Autot</title>
     <item>
-      <title>testimony file test</title>
+      <title>gitfilev1</title>
       <guid>140745</guid>
       <pubDate>2025-01-31T13:00:00.000Z</pubDate>
       <media:content url="https://cdn.jwplayer.com/manifests/VJLbuFFz.m3u8">
