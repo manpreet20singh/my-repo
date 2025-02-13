@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="https://purl.org/dc/terms/">
   <channel>
-    <title>Autot</title>
+    <title>Autotss</title>
     <item>
-      <title>gitfilev1</title>
+      <title>humfile</title>
       <guid>140745</guid>
       <pubDate>2025-01-31T13:00:00.000Z</pubDate>
       <media:content url="https://cdn.jwplayer.com/manifests/VJLbuFFz.m3u8">
-        <media:description>Magnus is able to stabilise Will, who still has a psychic connection to Kali, a manifestation of Big Bertha, despite no longer being host to the Macri.</media:description>
+        <media:description>tion of Big Bertha, despite no longer being host to the Macri.</media:description>
         <media:thumbnail url="https://imageresizer.static9.net.au/Yg0mIzvq7Vm8ggMqOCQr1YqrSdM=/272x0/https%3A%2F%2Fvms-tv-images-prod.s3.ap-southeast-2.amazonaws.com%2Fassets%2Fzype_mrss_feed%2Fthumbnail.jpg" width="854" height="480"/>
       </media:content>
       <media:source_id>cm6r1dpkd00050hp9isa7zgi6</media:source_id>
-      <media:episode>13</media:episode>
-      <media:season>2</media:season>
-      <media:series_id>Sanctuary</media:series_id>
       <media:mature_content>true</media:mature_content>
       <media:country>United States</media:country>
       <media:video_ad_timing>
@@ -41,12 +38,7 @@
         <duration>0</duration>
       </media:video_ad_timing>
       <media:enable_at>2025-01-31T13:00:00.000Z</media:enable_at>
-      <media:disable_at>2025-08-01T13:59:00.000Z</media:disable_at>
       <media:genre>Sci-Fi &amp; Fantasy</media:genre>
-      <meta name="Oztam Media ID" value="SANT02_13"/>
-      <meta name="Material Key" value="SANT02_13_A"/>
-      <meta name="Catalogue Code" value="SANT02"/>
-      <meta name="Full Slug" value="TV:EPISODE:sanctuary:season-2"/>
     </item>
   </channel>
 </rss>
